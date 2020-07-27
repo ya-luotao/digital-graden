@@ -9,6 +9,6 @@ module.exports = {
     },
   ],
   siteMetadata: {
-    title: `Site title`,
+    title: `ya-luotao's digital graden`,
   },
 }
